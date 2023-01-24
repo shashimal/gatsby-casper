@@ -1,12 +1,14 @@
 ---
 layout: post
-title: A Full and Comprehensive Style Test
+title: Write Your First Blog Post  
 image: img/testimg-cover.jpg
-author: [Ghost]
+author: [Duleendra]
 date: 2018-09-30T07:03:47.149Z
+draft: false
 tags:
-  - Tests
   - Getting Started
+  - Blog
+  - Markdown
 ---
 
 Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
